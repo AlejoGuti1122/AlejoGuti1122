@@ -26,8 +26,8 @@
 
 ## 📫 Conectemos
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alejandrogutierrez-dev) <!-- cámbialo si tienes otro -->
-- ✉️ gutierrez.alejandro.dev@gmail.com <!-- cámbialo si quieres otro contacto -->
+- 💼 [LinkedIn](https://www.linkedin.com/in/alejandro-guti%C3%A9rrez-9a88a6267/)
+- ✉️ c.gutierrez.d.alejandro@gmail.com
 
 
 
